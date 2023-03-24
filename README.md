@@ -1,3 +1,5 @@
+Music for the Mind: Identify a user's emotional state from a picture or video, and recommend suitable music to fit and/or improve their mood.
+
 # Emotion-Music-Recommendation
 Recommending music based on your facial expressions using FER 2013 dataset and Sporify api
 
