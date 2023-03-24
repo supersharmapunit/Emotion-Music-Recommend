@@ -1,0 +1,9 @@
+flask
+spotipy==2.19.0
+pandas==1.4.2
+gunicorn
+opencv_python_headless==4.5.5.64
+numpy==1.22.3
+Pillow
+opencv-python
+tensorflow
