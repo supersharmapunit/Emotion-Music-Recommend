@@ -4,7 +4,7 @@ Music for the Mind: Identify a user's emotional state from a picture or video, a
 Recommending music based on your facial expressions using FER 2013 dataset 
 
 # Project Description:
-The project employs an emotion recognition model trained on the FER 2013 dataset, capable of identifying seven different emotions in real-time video feed captured from a webcam. Based on the identified emotion, the app recommends a playlist of songs that match the user's emotional state. The recommended songs are displayed on the screen using a Neumorphism UI design for the website. This allows the user to choose and listen to music that fits their emotional state, enhancing their mood and overall well-being.
+The project employs an emotion recognition model trained on the FER 2013 dataset, capable of identifying seven different emotions in real-time video feed captured from a webcam. Based on the identified emotion, the app recommends a playlist of songs that match the user's emotional state. The recommended songs are displayed on the screen using a Modern UI design for the website. This allows the user to choose and listen to music that fits their emotional state, enhancing their mood and overall well-being.
 
 # Features:
 - Real time expression detection and song recommendations.
