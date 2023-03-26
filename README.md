@@ -7,15 +7,25 @@ Recommending music based on your facial expressions using FER 2013 dataset
 The project employs an emotion recognition model trained on the FER 2013 dataset, capable of identifying seven different emotions in real-time video feed captured from a webcam. Based on the identified emotion, the app recommends a playlist of songs that match the user's emotional state. The recommended songs are displayed on the screen using a Modern UI design for the website. This allows the user to choose and listen to music that fits their emotional state, enhancing their mood and overall well-being.
 
 
-# Running the app:
+# Project Setup:
 Make sure you have python3+ installed on your local system.
+
 Go the Project Directory using 
+
   cd Emotion-Music-Recommend
+
 Create a Virtual Environment using
+  
   python –m venv venv
+
 Activate the Virtual Environment using
+
   Venv/Scripts/Activate
+
 To install all the required dependencies run 
+  
   pip install -r requirements.txt.
+
 Run “python app.py” 
+
 Open the web app at http://127.0.0.1:5000 in a browser and give camera permissions when asked.
