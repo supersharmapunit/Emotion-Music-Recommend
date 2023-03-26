@@ -9,7 +9,7 @@ The project employs an emotion recognition model trained on the FER 2013 dataset
 
 # Project Setup:
 Make sure you have python3+ installed on your local system.
-
+```bash
 Go the Project Directory using 
 
   cd Emotion-Music-Recommend
@@ -29,3 +29,4 @@ To install all the required dependencies run
 Run “python app.py” 
 
 Open the web app at http://127.0.0.1:5000 in a browser and give camera permissions when asked.
+```
