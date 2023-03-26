@@ -9,24 +9,25 @@ The project employs an emotion recognition model trained on the FER 2013 dataset
 
 # Project Setup:
 Make sure you have python3+ installed on your local system.
+
+- Go the Project Directory using 
 ```bash
-Go the Project Directory using 
-
   cd Emotion-Music-Recommend
-
-Create a Virtual Environment using
-  
-  python –m venv venv
-
-Activate the Virtual Environment using
-
-  Venv/Scripts/Activate
-
-To install all the required dependencies run 
-  
-  pip install -r requirements.txt.
-
-Run “python app.py” 
-
-Open the web app at http://127.0.0.1:5000 in a browser and give camera permissions when asked.
 ```
+- Create a Virtual Environment using
+```bash  
+  python –m venv venv
+```
+- Activate the Virtual Environment using
+```bash
+  Venv/Scripts/Activate
+```
+- To install all the required dependencies run 
+```bash 
+  pip install -r requirements.txt.
+```
+```bash
+Run “python app.py” 
+```
+- Open the web app at http://127.0.0.1:5000 in a browser and give camera permissions when asked.
+
